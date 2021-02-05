@@ -34,6 +34,6 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-      - uses: orta-contrib/sample-action@master
+      - uses: orta-contrib/sample-action@v1
         with:
           milliseconds: 1000
